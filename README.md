@@ -12,7 +12,7 @@ This project is suitable for **educational purposes**, **IoT experimentation**, 
 
 ---
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](./screenshoot.png)
 
 ## Hardware Requirements
 
